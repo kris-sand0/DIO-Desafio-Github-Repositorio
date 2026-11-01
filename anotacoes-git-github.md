@@ -35,3 +35,11 @@ git push
 Hoje aprendi a clonar um repositório do
 GitHub para o meu computador e verificar
 se ele está sincronizado.
+
+## Segundo aprendizado
+
+Aprendi que o Git permite registrar
+o histórico de alterações de um projeto.
+
+Cada commit representa um registro
+de uma alteração realizada.
