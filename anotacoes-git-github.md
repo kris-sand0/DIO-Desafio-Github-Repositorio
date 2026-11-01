@@ -49,3 +49,8 @@ de uma alteração realizada.
 Aprendi que o git pull permite
 atualizar meu repositório local
 com as alterações do GitHub.
+
+## Trabalhando com branches
+
+Uma branch permite desenvolver
+alterações separadamente da branch principal.
