@@ -43,3 +43,9 @@ o histórico de alterações de um projeto.
 
 Cada commit representa um registro
 de uma alteração realizada.
+
+## Terceiro aprendizado
+
+Aprendi que o git pull permite
+atualizar meu repositório local
+com as alterações do GitHub.
